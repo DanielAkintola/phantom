@@ -25,6 +25,8 @@ pip install --upgrade setuptools
 
 pip install pandas whois httpx
 pip install pycaret # It will take sometime.
+
+pip install typer
 ```
 
 ### To Run
