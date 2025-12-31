@@ -8,7 +8,7 @@ Python 3.11.9 _(Currently Using)_
 ```bash
 python -m venv zenv
 source zenv/Scripts/activate # Windows
-source zenv/bin/activate # Mac
+source zenv/bin/activate # Mac / Linux
 ```
 
 
