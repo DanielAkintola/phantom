@@ -1,15 +1,9 @@
 # Python Phishing URL Detection
----
-**Python 3.11.9 _(Currently Using)_**
-
+```
+Python 3.11.9 _(Currently Using)_
+```
 
 ## How to Run?
-
-- Clone or download [phantom](https://github.com/DanielAkintola/phantom) 
-
-`git clone https://github.com/DanielAkintola/phantom.git`
-
-
 - Create a virtual environment
 ```bash
 python -m venv zenv
